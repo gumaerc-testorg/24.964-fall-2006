@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6190675e-5d8c-4b96-4a62-9eede1c05922
 ---
@@ -163,7 +166,7 @@ Flemming, Edward. "A Phonetically-Based Model of Phonological Vowel Reduction." 
 {{< tdopen >}}
 Articulatory phonology
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Browman, Catherine P., and Louis Goldstein. "Tiers in Articulatory Phonology, With Some Implications for Casual Speech." In _Papers in Laboratory Phonology I: Between the Grammar and Physics of Speech_. Edited by John Beckman and Mary Kingston. New York, NY: Cambridge University Press, 1990. ISBN: 9780521368087.
