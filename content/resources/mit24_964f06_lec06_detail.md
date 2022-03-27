@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09ca9c90-ff88-4173-2b91-de0a7010a255
 resourcetype: Document
 title: Implications of Phonetic Detail for Phonological Analyses
 uid: 0ff167b4-9d5a-0f4b-06ac-4f05c25b0f80

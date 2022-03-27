@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09ca9c90-ff88-4173-2b91-de0a7010a255
 resourcetype: Document
 title: Phonetic Detail and the 'Too Many Solutions' Problem
 uid: fa4e00ab-70a4-3770-a4a2-2d6fa129226d

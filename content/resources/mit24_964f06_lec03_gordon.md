@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09ca9c90-ff88-4173-2b91-de0a7010a255
 resourcetype: Document
 title: Does Language-Specific Detail Affect Phonological Distribution?
 uid: f6658076-a043-4806-334e-35f0a0f039a8
