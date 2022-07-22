@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course,
+  lecture notes, and supporting audio files.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 09ca9c90-ff88-4173-2b91-de0a7010a255
 ---
@@ -37,7 +42,7 @@ SUPPORTING FILES
 Phonetic realization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7MB]({{< baseurl >}}/resources/mit24_964f06_lec01_intro))
+({{% resource_link 6c68f1fc-61f0-3a49-0b6b-602fc4b69608 "PDF - 1.7MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Audio samples ([ZIP](/ans7870/24/24.964/f06/audio/lec01_audio.zip)) (The ZIP file contains: 5 .wav files.)
@@ -58,7 +63,7 @@ Audio samples ([ZIP](/ans7870/24/24.964/f06/audio/lec01_audio.zip)) (The ZIP fil
 Contour tones
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_964f06_lec02_zhang))
+({{% resource_link 5a14ac99-7f35-4ac5-a516-4418282940db "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -73,7 +78,7 @@ Contour tones
 Syllable weight
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_964f06_lec03_gordon))
+({{% resource_link f6658076-a043-4806-334e-35f0a0f039a8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -88,7 +93,7 @@ Syllable weight
 Stop voicing and bursts
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_964f06_lec04))
+({{% resource_link 12d23760-e344-d693-ca64-35fc7d5471db "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -109,7 +114,7 @@ Stop voicing and bursts
 Rules and constraints
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mit24_964f06_lec05_models))
+({{% resource_link 0297af09-6a8c-8c9d-1ba6-4877b505f137 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -130,7 +135,7 @@ File 5\_anna.wav courtesy of the Ohio State University Research Foundation and t
 Implications of phonetic detail for phonological analyses
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_964f06_lec06_detail))
+({{% resource_link 0ff167b4-9d5a-0f4b-06ac-4f05c25b0f80 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -151,7 +156,7 @@ Implications of phonetic detail for phonological analyses
 Articulatory phonology
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_964f06_lec07_artic_phon))
+({{% resource_link dce76079-b73c-216e-f8e7-bd1d422894ef "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -166,7 +171,7 @@ Articulatory phonology
 Releases and transitions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mit24_964f06_lec08_gafos))
+({{% resource_link 91254d5a-b3a0-6c58-30a3-265b80015197 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -193,7 +198,7 @@ Courtesy of the [UCLA Phoenetics Lab](http://archive.phonetics.ucla.edu/), Peter
 Tone
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_964f06_lec09_tone))
+({{% resource_link 01d28cd7-c172-8562-f395-4f735d030511 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -214,7 +219,7 @@ Tone
 Releases and transitions (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.8MB]({{< baseurl >}}/resources/mit24_964f06_lec10_bursts))
+({{% resource_link c24d3390-827b-3bb7-de93-e24bf9d9476d "PDF - 1.8MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Audio samples ([ZIP](/ans7870/24/24.964/f06/audio/lec10_audio.zip)) (The ZIP file contains: 11 .wav files)
@@ -235,7 +240,7 @@ Audio samples ([ZIP](/ans7870/24/24.964/f06/audio/lec10_audio.zip)) (The ZIP fil
 Phonetic detail and the "too many solutions" problem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_964f06_lec11_solutions))
+({{% resource_link fa4e00ab-70a4-3770-a4a2-2d6fa129226d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
