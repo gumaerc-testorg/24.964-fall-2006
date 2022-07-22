@@ -6,6 +6,7 @@ file: /courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/6c68f1f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Phonetic Realization
 uid: 6c68f1fc-61f0-3a49-0b6b-602fc4b69608
 ---
 Lecture notes on phonetic realization, phonetic and phonological representations, and language-specific variation.
-

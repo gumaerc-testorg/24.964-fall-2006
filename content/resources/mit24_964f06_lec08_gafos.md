@@ -6,6 +6,7 @@ file: /courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/91254d5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Releases and transitions
 uid: 91254d5a-b3a0-6c58-30a3-265b80015197
 ---
 Lecture notes on consonant releases and transitions, gestural overlap and recoverability, the grammar of stop release, and unreleased stops.
-

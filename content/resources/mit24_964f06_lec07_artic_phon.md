@@ -7,6 +7,7 @@ file: /courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/dce7607
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Articulatory Phonology
 uid: dce76079-b73c-216e-f8e7-bd1d422894ef
 ---
 Lecture presentation on articulatory phonology, duration compensation, the damped mass-spring model, gestural overlap, timing and coordination, phasing rules, and overlap and stop releases.
-

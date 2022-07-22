@@ -7,6 +7,7 @@ file: /courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/0ff167b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Implications of Phonetic Detail for Phonological Analyses
 uid: 0ff167b4-9d5a-0f4b-06ac-4f05c25b0f80
 ---
 Lecture notes on the implications of including phonetic detail in phonological representations, constraining contrasts, alternative theories of contrast, vowel reduction, and the stability of phonology.
-

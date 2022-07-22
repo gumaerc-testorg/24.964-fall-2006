@@ -6,6 +6,7 @@ file: /courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/c24d339
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Releases and transitions
 uid: c24d3390-827b-3bb7-de93-e24bf9d9476d
 ---
 Lecture notes on consonant releases and transitions, distribution of audibly released stops, and obstruent voicing.
-

@@ -7,6 +7,7 @@ file: /courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/fa4e00a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Phonetic Detail and the 'Too Many Solutions' Problem
 uid: fa4e00ab-70a4-3770-a4a2-2d6fa129226d
 ---
 Lecture notes on phonetic detail, the 'Too Many Solutions' Problem, the phonetic basis for *NT effects, and interactions between coronal place and vowel backness.
-
