@@ -178,7 +178,7 @@ Releases and transitions
 
 Audio samples ([ZIP](/ans7870/24/24.964/f06/audio/lec08_audio.zip)) (The ZIP file contains: 2 .wav files.)
 
-Courtesy of the [UCLA Phoenetics Lab](http://archive.phonetics.ucla.edu/), Peter Ladefoged, PI. Source data: [http://archive.phonetics.ucla.edu/Language/FLA/fla\_record\_details.html](http://archive.phonetics.ucla.edu/Language/FLA/fla_record_details.html).
+Courtesy of the {{% resource_link "4118ae36-fba4-447c-a485-0d8c99c87ba2" "UCLA Phoenetics Lab" %}}, Peter Ladefoged, PI. Source data: {{% resource_link "d88ab8b9-71ac-4bf7-833e-4019501cea98" "http://archive.phonetics.ucla.edu/Language/FLA/fla\_record\_details.html" %}}.
 
 
 {{< tdclose >}}
