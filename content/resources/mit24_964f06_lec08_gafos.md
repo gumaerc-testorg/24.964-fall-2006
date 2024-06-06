@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on consonant releases and transitions, gestural overlap
   and recoverability, the grammar of stop release, and unreleased stops.
 file: /courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/91254d5ab3a06c5830a3265b80015197_MIT24_964F06_lec08_gafos.pdf
+file_size: 1163498
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
