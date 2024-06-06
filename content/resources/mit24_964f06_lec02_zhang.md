@@ -6,6 +6,7 @@ description: Lecture notes on how language-specific detail affects phonological 
   role of sonorous rhyme duration, and evidence for the role of language-specific
   segment duration.
 file: /courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/5a14ac997f354ac5a5164418282940db_MIT24_964F06_lec02_zhang.pdf
+file_size: 549807
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

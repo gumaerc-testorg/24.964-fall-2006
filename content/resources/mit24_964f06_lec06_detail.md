@@ -4,6 +4,7 @@ description: Lecture notes on the implications of including phonetic detail in p
   representations, constraining contrasts, alternative theories of contrast, vowel
   reduction, and the stability of phonology.
 file: /courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/0ff167b49d5a0f4b06ac4f05c25b0f80_MIT24_964F06_lec06_detail.pdf
+file_size: 593337
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
