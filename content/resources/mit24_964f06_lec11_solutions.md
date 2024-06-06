@@ -4,6 +4,7 @@ description: Lecture notes on phonetic detail, the 'Too Many Solutions' Problem,
   phonetic basis for *NT effects, and interactions between coronal place and vowel
   backness.
 file: /courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/fa4e00ab70a43770a4a22d6fa129226d_MIT24_964F06_lec11_solutions.pdf
+file_size: 470121
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
