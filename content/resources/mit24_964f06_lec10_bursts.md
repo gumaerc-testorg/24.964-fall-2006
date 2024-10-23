@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on consonant releases and transitions, distribution of
   audibly released stops, and obstruent voicing.
-file: /courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/c24d3390827b3bb7de93e24bf9d9476d_MIT24_964F06_lec10_bursts.pdf
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/c24d3390827b3bb7de93e24bf9d9476d_MIT24_964F06_lec10_bursts.pdf
 file_size: 1871240
 file_type: application/pdf
 learning_resource_types:
