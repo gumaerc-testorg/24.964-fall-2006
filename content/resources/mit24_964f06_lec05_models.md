@@ -4,7 +4,7 @@ description: Lecture notes on models of phonetic realization, rules and constrai
   phonetics-phonology interaction, targets and interpolation, locus equations, vowel
   target undershoot, undershoot as a consequence of effort minimization, a constraint-based
   model, finding optimal values, and weighted constraints versus ranked constraints.
-file: /courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/0297af096a8c8c9d1ba64877b505f137_MIT24_964F06_lec05_models.pdf
+file: /ol-ocw-studio-app/courses/24-964-topics-in-phonology-phonetic-realization-fall-2006/0297af096a8c8c9d1ba64877b505f137_MIT24_964F06_lec05_models.pdf
 file_size: 1150243
 file_type: application/pdf
 learning_resource_types:
