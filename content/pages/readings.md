@@ -41,7 +41,7 @@ Phonetic realization
 {{< tdopen >}}
 
 
-Flemming, Edward. "Phonetic Optimization: Compromise in Speech Production." _University of Maryland Working Papers in Linguistics 5: Selected Phonology Papers from H-OT-97_ (1997): 72-91. ([PDF](http://web.mit.edu/flemming/www/paper/ot.pdf))
+Flemming, Edward. "Phonetic Optimization: Compromise in Speech Production." _University of Maryland Working Papers in Linguistics 5: Selected Phonology Papers from H-OT-97_ (1997): 72-91. ({{% resource_link "b88c407f-2633-4972-b398-c4a2bc423133" "PDF" %}})
 
 Keating, P. A. "Universal Phonetics and The Organization of Grammars." In _Phonetic Linguistics: Essays in Honor of Peter Ladefoged_. Edited by V. Fromkin. Orlando, FL: Academic Press, 1985, pp. 115-132. ISBN: 9780122689901.
 
@@ -101,11 +101,11 @@ Stop voicing and bursts
 {{< tdopen >}}
 
 
-Jun, Jongho. "Positional Faithfulness, Sympathy and Inferred Input." Ms, Yeungnam University, 2002. ([PDF](http://ling.snu.ac.kr/jun/work/inferred.pdf))
+Jun, Jongho. "Positional Faithfulness, Sympathy and Inferred Input." Ms, Yeungnam University, 2002. ({{% resource_link "30e6c20b-e869-47fa-b707-f053294b35e7" "PDF" %}})
 
 ———. "A Perception-Based Analysis of Place Assimilation." In _Phonetically-Based Phonology_. Edited by Robert Kirchner, Bruce Hayes, and Donca Steriade. New York, NY: Cambridge University Press, 2004. ISBN: 9780521825788.
 
-———. _Perceptual and Articulatory Factors in Place Assimilation: An Optimality Theoretic Approach_. PhD dissertation, UCLA, 1995, chapter 2. ([PDF](http://ling.snu.ac.kr/jun/work/phd/ch2.pdf))
+———. _Perceptual and Articulatory Factors in Place Assimilation: An Optimality Theoretic Approach_. PhD dissertation, UCLA, 1995, chapter 2. ({{% resource_link "79c4bb38-7773-4c97-a417-4b9024642a4a" "PDF" %}})
 
 Kawahara, Shigeto. "A Faithfulness Ranking Projected from a Perceptibility Scale: The Case of \[+ voice\] in Japanese." _Language_ 82, no. 3 (September 2006).
 
@@ -129,7 +129,7 @@ Rules and constraints
 {{< tdopen >}}
 
 
-Flemming, Edward. "Scalar and Categorical Phenomena in a Unified Model of Phonetics and Phonology." _Phonology_ 18, no. 1 (2001). ([PDF](http://web.mit.edu/flemming/www/paper/scalar.pdf))
+Flemming, Edward. "Scalar and Categorical Phenomena in a Unified Model of Phonetics and Phonology." _Phonology_ 18, no. 1 (2001). ({{% resource_link "4a0ed830-a292-4ef7-a396-64192ddcc3a6" "PDF" %}})
 
 Cohn, Abigail. "Nasalisation in English: Phonology or Phonetics." _Phonology_ 10 (1993): 43-81.
 
@@ -147,9 +147,9 @@ Implications of phonetic detail for phonological analyses
 {{< tdopen >}}
 
 
-Lindblom, Björn. "[A Spectrographic Study of Vowel Reduction](http://dx.doi.org/10.1121/1.1918816)." _Journal of the Acoustical Society of America_ 35 (1963): 1773-1781.
+Lindblom, Björn. "{{% resource_link "af2ce925-1b99-459f-965c-17fa4f2a0168" "A Spectrographic Study of Vowel Reduction" %}}." _Journal of the Acoustical Society of America_ 35 (1963): 1773-1781.
 
-Flemming, Edward. "A Phonetically-Based Model of Phonological Vowel Reduction." Unpublished manuscript, Massachusetts Institute of Technology, 2005. ([PDF](http://web.mit.edu/flemming/www/paper/vowelred.pdf))
+Flemming, Edward. "A Phonetically-Based Model of Phonological Vowel Reduction." Unpublished manuscript, Massachusetts Institute of Technology, 2005. ({{% resource_link "9581e03b-6173-4a65-8094-9e997260d7dd" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -230,9 +230,9 @@ Releases and transitions (cont.)
 {{< tdopen >}}
 
 
-Kenstowicz, M., M. Abu Mansour, and M. Törkenczy. "Two Notes on Laryngeal Licensing." In _Living on the Edge: 28 Papers in Honour of Jonathan Kaye_. Edited by Stefan Ploch and Geoff Williams. New York, NY: Mouton de Gruyter, 2000 (reprinted 2004). ISBN: 9783110176193. ([DOC](http://web.mit.edu/linguistics/people/faculty/kenstowicz/laryngeal_licensing.doc))
+Kenstowicz, M., M. Abu Mansour, and M. Törkenczy. "Two Notes on Laryngeal Licensing." In _Living on the Edge: 28 Papers in Honour of Jonathan Kaye_. Edited by Stefan Ploch and Geoff Williams. New York, NY: Mouton de Gruyter, 2000 (reprinted 2004). ISBN: 9783110176193. ({{% resource_link "d154eb97-9854-4c18-823d-92f6ef00dc2b" "DOC" %}})
 
-Kang, Y-J. "[Perceptual Similarity in Loanword Adaptation: English Postvocalic Word-Final Stops in Korean](http://dx.doi.org/10.1017/S0952675703004524)." _Phonology_ 20 (2003): 219-273.
+Kang, Y-J. "{{% resource_link "c2b3866d-ee8b-4d85-b4cd-071af736e9b5" "Perceptual Similarity in Loanword Adaptation: English Postvocalic Word-Final Stops in Korean" %}}." _Phonology_ 20 (2003): 219-273.
 
 
 {{< tdclose >}}
@@ -254,9 +254,9 @@ Phonetic detail and the "too many solutions" problem
 {{< tdopen >}}
 
 
-Steriade, Donca. "Phonetics In Phonology: The Case of Laryngeal Neutralization." _UCLA Working Papers in Linguistics_ 3 (1997): 25-146. ([PDF](http://www.linguistics.ucla.edu/people/steriade/papers/phoneticsinphonology.pdf))
+Steriade, Donca. "Phonetics In Phonology: The Case of Laryngeal Neutralization." _UCLA Working Papers in Linguistics_ 3 (1997): 25-146. ({{% resource_link "8d37079e-c467-4328-b0ee-21df81d7537c" "PDF" %}})
 
-———. "The Phonology of Perceptibility Effects: The P-map and its Consequences for Constraint Organization." 2001. ([DOC](http://www.linguistics.ucla.edu/people/steriade/papers/P-map_for_phonology.doc))
+———. "The Phonology of Perceptibility Effects: The P-map and its Consequences for Constraint Organization." 2001. ({{% resource_link "74f4c874-a36b-44f4-9828-eab065f50954" "DOC" %}})
 
 
 {{< tdclose >}}
